@@ -1,0 +1,24 @@
+[
+    {
+        "email": "luffy@onepiece.com",
+        "fullName":"Monkey D. Luffy",
+        "userName":"Luffy",
+        "passWord":"luffy123"
+    },
+    {
+        "email":"zoro@onepiece.com",
+        "fullName":"Roronoa Zoro",
+        "userName":"Zoro",
+        "passWord":"zoro123"
+    },
+    {
+        "email":"sanji@onepiece.com",
+        "fullName":"Vinsmoke Sanji",
+        "userName":"Sanji",
+        "passWord":"sanji123"
+    }
+
+
+
+
+]
